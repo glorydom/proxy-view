@@ -3,7 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>proxy view</display-name>
 
   <filter>
     <filter-name>UrlRewriteFilter</filter-name>
@@ -28,8 +28,6 @@
   </servlet-mapping>
 
   <welcome-file-list>
-    <welcome-file>
-      index.jsp
-    </welcome-file>
+    <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
