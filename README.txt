@@ -19,4 +19,4 @@ i used stash
 Rebase Commit  After Stash back, did another change
 commit1 change
 
-bug 1
+bug 2
